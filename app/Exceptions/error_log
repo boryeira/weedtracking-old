@@ -1,0 +1,1 @@
+[04-Dec-2017 10:46:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Exceptions\Handler' not found in /home4/agroptim/public_html/weedtracking/app/Exceptions/Handler.php on line 9

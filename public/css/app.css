@@ -1,0 +1,79 @@
+.popup-chat-responsive
+{
+	max-width: 500px !important;
+	max-height: 100% !important;
+}
+
+.popup-chat-responsive.popup-chat
+{
+	width: 100% !important;
+}
+
+.popup-chat-responsive .mCustomScrollbar
+{
+	max-height: 500px !important;
+}
+
+.open-photo-popup .mCustomScrollbar
+{
+	max-height: 500px !important;
+}
+
+.post-block-photo a
+{
+	padding:0px 0px 0px 0px !important;
+}
+
+span .play-video 
+{
+	padding: 0px !important;
+	line-height:61px;
+	color:white;
+	top: unset;
+}
+
+.radio
+{
+	margin-bottom: 0px;
+}
+
+.fafeed
+{
+	font-size: 21px;
+	line-height: 1.5
+
+}
+
+.famenu
+{
+	font-size: 21px;
+
+}
+
+.query-builder .selectize-dropdown {
+  height: auto !important;
+}
+
+.selectize-dropdown-content {
+
+	background-color: white;
+}
+
+.bootstrap-select.btn-group .dropdown-menu li a {
+	padding: 0px;
+	margin: 10px; 
+}
+
+
+.post .btn.dropdown-toggle {
+	margin:0px;
+}
+
+.container-nopadding {
+	padding: 0px !important;
+
+} 
+
+.modal-dialog {
+	margin: 10px auto !important;
+}

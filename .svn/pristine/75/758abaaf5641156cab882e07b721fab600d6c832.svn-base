@@ -1,0 +1,8 @@
+[04-Dec-2017 10:41:46 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Feed.php on line 8
+[04-Dec-2017 10:41:49 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Bank.php on line 8
+[04-Dec-2017 10:41:52 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Auth\User' not found in /home4/agroptim/public_html/weedtracking/app/User.php on line 8
+[04-Dec-2017 10:41:56 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Post.php on line 10
+[04-Dec-2017 10:41:59 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Plant.php on line 10
+[04-Dec-2017 10:42:03 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Phase.php on line 9
+[04-Dec-2017 10:42:06 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Strain.php on line 9
+[04-Dec-2017 10:42:32 America/Chicago] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home4/agroptim/public_html/weedtracking/app/Invitation.php on line 7

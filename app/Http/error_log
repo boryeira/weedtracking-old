@@ -1,0 +1,1 @@
+[04-Dec-2017 10:46:34 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Kernel' not found in /home4/agroptim/public_html/weedtracking/app/Http/Kernel.php on line 7

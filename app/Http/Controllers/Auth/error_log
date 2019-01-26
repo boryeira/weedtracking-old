@@ -1,0 +1,4 @@
+[05-Dec-2017 12:08:20 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[08-Dec-2017 07:14:00 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[08-Dec-2017 10:11:48 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/Auth/LoginController.php on line 8
+[09-Dec-2017 05:11:00 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/Auth/RegisterController.php on line 13

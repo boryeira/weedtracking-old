@@ -1,0 +1,6 @@
+[04-Dec-2017 10:52:22 America/Chicago] PHP Fatal error:  Class 'Illuminate\Routing\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/Controller.php on line 10
+[04-Dec-2017 10:52:52 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/UserController.php on line 18
+[04-Dec-2017 10:52:55 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/HomeController.php on line 8
+[04-Dec-2017 10:52:58 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/FeedController.php on line 17
+[04-Dec-2017 10:53:08 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/PlantController.php on line 18
+[04-Dec-2017 10:53:10 America/Chicago] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home4/agroptim/public_html/weedtracking/app/Http/Controllers/StrainController.php on line 9

@@ -1,0 +1,3 @@
+[04-Dec-2017 10:51:28 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\TrimStrings' not found in /home4/agroptim/public_html/weedtracking/app/Http/Middleware/TrimStrings.php on line 7
+[04-Dec-2017 10:51:31 America/Chicago] PHP Fatal error:  Class 'Illuminate\Cookie\Middleware\EncryptCookies' not found in /home4/agroptim/public_html/weedtracking/app/Http/Middleware/EncryptCookies.php on line 7
+[04-Dec-2017 10:51:37 America/Chicago] PHP Fatal error:  Class 'Illuminate\Foundation\Http\Middleware\VerifyCsrfToken' not found in /home4/agroptim/public_html/weedtracking/app/Http/Middleware/VerifyCsrfToken.php on line 7
